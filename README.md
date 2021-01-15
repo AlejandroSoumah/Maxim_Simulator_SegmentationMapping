@@ -1,5 +1,5 @@
 # Maxim_Simulator_SegmentationMapping
-[![Watch the video](Screenshot_from_Servo_Motor.mov.png)](https://youtu.be/jOfriBMSS-M)
+[![Watch the video](<img src="Screenshot_from_Servo_Motor.mov.png"/>)](https://youtu.be/jOfriBMSS-M)
 
 This is the result of road-segmentation and waypoint creation algorithms applied to Carla-Simulator .
 
@@ -15,8 +15,8 @@ To RUN:
    1. Install Python x3.6
    2. Install Carla-Simulator
    3. Install the following libraries:
-        OpenCV
-        Tensorflow 2.0
-        Numpy
+        _ OpenCV
+        _ Tensorflow 2.0
+        _ Numpy
    4.Run Carla-Simulator
    5.Run Manual_Script.py
