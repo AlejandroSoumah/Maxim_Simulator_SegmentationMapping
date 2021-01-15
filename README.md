@@ -1,5 +1,5 @@
 # Maxim_Simulator_SegmentationMapping
-[![Watch the video](<img src="Screenshot_from_Servo_Motor.mov.png"/>)](https://youtu.be/jOfriBMSS-M)
+[![Watch the video](https://github.com/AlejandroSoumah/Maxim_Simulator_SegmentationMapping/blob/main/Screenshot_from_Mapping.mov.png)](https://youtu.be/jOfriBMSS-M)
 
 This is the result of road-segmentation and waypoint creation algorithms applied to Carla-Simulator .
 
