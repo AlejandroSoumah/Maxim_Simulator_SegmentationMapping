@@ -15,8 +15,8 @@ This is the Segmentation and Mapping applied directly to carla simulator.
    1. Install Python x3.6
    2. Install Carla-Simulator
    3. Install the following libraries:
-        _ OpenCV
-        _ Tensorflow 2.0
-        _ Numpy
+        - OpenCV
+        - Tensorflow 2.0
+        - Numpy
    4.Run Carla-Simulator
    5.Run Manual_Script.py
