@@ -1,4 +1,4 @@
-# Maxim_Simulator_SegmentationMapping
+## Creation of an "HD MAP" using Road Semantic Segmentation
 [![Watch the video](https://github.com/AlejandroSoumah/Maxim_Simulator_SegmentationMapping/blob/main/Screenshot_from_Mapping.mov.png)](https://youtu.be/jOfriBMSS-M)
 
 This is the result of road-segmentation and waypoint creation algorithms applied to Carla-Simulator .
@@ -11,7 +11,7 @@ In the simulator there is almost no state-estimation error, while in the physica
 
 This is the Segmentation and Mapping applied directly to carla simulator.
 
-To RUN:
+### To RUN:
    1. Install Python x3.6
    2. Install Carla-Simulator
    3. Install the following libraries:
